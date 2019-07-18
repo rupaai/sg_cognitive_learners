@@ -1,6 +1,7 @@
 # sg_cognitive-learners Track report by
 @Labiba
 ## Week 1
+### Date - 8.7.2019
 We are planning to work on a song recommendation project. So far what we have done:
 1. Arranged a meetup
 2. FInalizing the meetup date and time
